@@ -41,7 +41,7 @@ export class KnowledgeService {
       )
   }
 
-  getKnowledge(id: number) {
+  getById(id: number) {
     return this.http.get<Object>(`${this.basePath}/${id}`, this.httpOptions)
     .pipe(
       retry(2),
