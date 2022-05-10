@@ -1,0 +1,11 @@
+.grid2c {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 0 20px;
+  margin-top: 40px;;
+}
+
+.main-title {
+  text-align: center;
+}

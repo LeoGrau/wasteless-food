@@ -1,0 +1,27 @@
+{
+  "knowledge": [
+    {
+      "id": 1,
+      "title": "WHAT IS FOOD WASTE?",
+      "urlToImage": "https://tgtg-mkt-cms-prod.s3.eu-west-1.amazonaws.com/2659/WvU19FlXwjibPBY0",
+      "summary": "Whilst plenty of research has been conducted on the issue, there still isn't a clear and consistent approach when it comes to defining or quantifying food waste. So, here are some different interpretations as well as our own take on this.",
+      "content": "DEFINITIONS\nFood loss: a decrease in quantity and quality of agricultural, forestry and fishery products intended for human consumption that are ultimately not eaten by people. Food losses occur along the supply chain from production, to harvest, post-harvest handling, to storage and processing, and during transportation (FAO, 2017)\nFood waste: food appropriate for human consumption being discarded or left to spoil at consumer level – regardless of the cause (HLPE, 2014)\nFood loss and waste: a decrease at all stages of the food system from production to consumption, in mass and/or quality, of food that was originally intended for human consumption, regardless of the cause (FAO, 2017)\nThere is simply no right or wrong way to define it, and so to keep things simple we decided to call the entire issue from farm to fork: Food Waste"
+    },
+    {
+      "id": 2,
+      "title": "WHERE IS FOOD WASTED?",
+      "urlToImage": "https://tgtg-mkt-cms-prod.s3.eu-west-1.amazonaws.com/2660/RTXBvKN9aZIY99Fb",
+      "summary": "Humanity is dependent on food to survive. Yet, in every corner of the world food is wasted for different reasons and in various, different circumstances.",
+      "content": "DEVELOPING NATIONS\nDeveloping nations experience greater unintended post-harvest losses at the start of the value chain because of inadequate technology, transportation infrastructure, storage and cooling facilities, and more extreme weather conditions.\n\nThe developing world accounts for 44% of food waste and loss in the world (Lipinski et al., 2013)\nIn developing countries 40% of losses occur during harvest and processing level (FAO 2016)\nInterventions within these systems focus on training and upgrading technical capacity to reduce losses, increase efficiency and reduce labour intensity of the technologies employed (Parfitt et al., 2010)."
+    },
+    {
+      "id": 3,
+      "title": "WHY IS FOOD WASTED?\n",
+      "urlToImage": "https://tgtg-mkt-cms-prod.s3.eu-west-1.amazonaws.com/2978/flsXOhXQTgZLtzfK",
+      "summary": "Nowadays, food is transported over long distances across continents. This means that end consumers are becoming increasingly disconnected from the source and the supply chain becomes longer and more fragmented. Food waste is in may ways a systemic issue rather than the fault of just one entity. To solve it, different stakeholders will need to coordinate and collaborate in harmony.",
+      "content": "FOOD WASTE OCCURS AT ALL STAGES FROM FARM TO FORK\nAs food travels all the way from the producer to the consumer, it moves through various stages. There are many different reasons why food is either lost or wasted within these different steps, but these can be summarised to (BCG, 2018):\n\nLack of awareness of the problem and the solutions at hand\nInadequate supply chain infrastructure\nSupply chain inefficiency\nWeak collaboration across the value chain\nInsufficient regulations."
+    }
+
+  ]
+
+}
